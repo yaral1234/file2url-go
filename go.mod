@@ -1,6 +1,4 @@
-Go
 module github.com/yaral1234/file2url-go
-
 go 1.18
 
 require (
